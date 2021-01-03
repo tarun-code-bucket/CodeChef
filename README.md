@@ -1,2 +1,2 @@
 # CodeChef
-This repo consists of Code Chef code and repositories.
+This repo consists of Code Chef code and practices.
